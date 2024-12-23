@@ -21,7 +21,6 @@ class House:
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
 
-
 # __str__
 print(h1)
 print(h2)
